@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41127#Rose-in-BloomA-Sequel-to-Eight-Cousins-
 gutenberg_issued: '2012-10-21'
 gutenberg_type: Text
 identifiers:
